@@ -3,13 +3,13 @@
 
 ## Cheatsheet List
 
-CS240 Algorithm Design & Analysis, A+, Teaching Assistant
+CS240 Algorithm Design & Analysis
 
-EE150 Signals & Systems, A, Teaching Assistant
+EE150 Signals & Systems
 
-CS181 Artificial Intelligence, A
+CS181 Artificial Intelligence
 
-CS110 Computer Architecture, A
+CS110 Computer Architecture
 
 ## Cheatsheet - Python
 
