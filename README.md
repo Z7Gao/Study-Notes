@@ -1,5 +1,6 @@
 # study_notes
-存我乱七八糟笔记&cheatsheets的地方
+
+I put my random study notes and cheatsheets here.
 
 ## Cheatsheet List
 
